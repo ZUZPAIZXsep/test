@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p><b>KUY</b></p>
+    
 </body>
 </html>
